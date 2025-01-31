@@ -29,8 +29,8 @@ client.distube = new DisTube(client, {
     new SpotifyPlugin({ 
       emitEventsAfterFetching: true,
       api: {
-         clientId: "008a3b554fcc4875b9c3826c1bc32bd4",
-        clientSecret: "cc5a82e4fa174cd5872204b7e56cb471",
+         clientId: "Spotify id niz",
+        clientSecret: "Spotify client id niz",
       }
     }),
     new SoundCloudPlugin(),
